@@ -70,3 +70,16 @@ Concept architecture / product-definition stage.
 ---
 
 **HOMELANDAI / HAI**
+
+## Execution-Ready Implementation Program (November 2026)
+
+The latest **[12-phase implementation handbook](docs/implementation/README.md)** expands the original vision into a staged delivery program. It covers **bustling small-town economics**, commercial intelligence, field measurement and safety review, a secure Supabase/NVIDIA architecture, HAI OS UX, Twitch/optional Maestro, the REVELV verification ledger, Micro-Ad Lab, civic reinvestment, the Pedro Clisante pilot, QA, governance, and a repeatable second-city deployment.
+
+- **[Master implementation phases, deliverables, prerequisites and gates](docs/implementation/01_PHASED_MASTER_IMPLEMENTATION.md)**
+- **[Data dictionary and analytics methodology](docs/implementation/02_MEASUREMENT_AND_DATA_DICTIONARY.md)**
+- **[Technical implementation blueprint](docs/implementation/03_TECHNICAL_BLUEPRINT.md)**
+- **[Pilot work instructions](docs/implementation/08_PILOT_PLAYBOOK.md)**
+- **[QA acceptance tests](docs/implementation/09_QA_ACCEPTANCE_AND_TEST_MATRIX.md)**
+- **[12 phase epics in GitHub Issues](https://github.com/HOMELANDAI/BLOCK-WATCHER-BY-HAI/issues)**
+
+**Development state:** project planning and design architecture. There is no claim that a physical camera pilot, NVIDIA deployment, Supabase database, Twitch/Maestro adapter, AR placement, REVELV payment service, or production web app has been deployed. Real-world capture is conditional on local permissions and privacy/legal safeguards.
